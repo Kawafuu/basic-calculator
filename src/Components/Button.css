@@ -1,0 +1,16 @@
+.button-wrapper{
+    height:4em;
+    width:4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size:1.4em;
+    background-color: rgba(46, 43, 43, 0.8);
+    color:white;
+    flex: 1;
+}
+
+.operator{
+    background-color: rgba(255,165,0, 1);
+}
